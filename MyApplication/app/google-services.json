@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883341632180",
+    "project_id": "chat-in-menu",
+    "storage_bucket": "chat-in-menu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883341632180:android:3ac62eae1d650dc098ede1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYXbJI2_qNjWyv96PTE92AfBnDx5d3-UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
